@@ -3,7 +3,7 @@
 ## Overview
 This project is an AI-powered receipt scanner that detects ingredients from uploaded images and suggests meal ideas with recipe links. The system utilizes computer vision to recognize ingredients visually, without relying solely on text extraction.
 
-This project was developed during **ConUHack IX**.
+This project was developed during **ConUHacks IX**.
 
 ## Features
 - Upload images of receipts or ingredients.
